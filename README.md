@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 - 🔥 Passionate **Full Stack Developer** with **4+ years** of experience
-- 🚀 Specializing in **React, React Native, Next.js, Fastify, Supabase & WebRTC**
+- 🚀 Specializing in **React, React Native, Next.js, Fastify & Supabase.**
 - 📱 Focused on building **high-performance mobile & web apps**
 - 🎯 Currently studying and improving my **backend & real-time systems skills**
 
@@ -22,7 +22,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ---
 
@@ -37,8 +36,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adakir4)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adakir4)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adakir4_)
 
 💡 *“Code, Create, Innovate.”*
 
