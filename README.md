@@ -1,13 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/adakir4">Adam (Adakir4)</a>! 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
 ---
 
 ### 💻 About Me
-- 🔥 Passionate **Full Stack Developer** with **4+ years** of experience
+- 🔥 **Full Stack Developer** with **4+ years** of experience
 - 🚀 Specializing in **React, React Native, Next.js, Fastify & Supabase.**
 - 📱 Focused on building **high-performance mobile & web apps**
 - 🎯 Currently studying and improving my **backend & real-time systems skills**
